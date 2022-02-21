@@ -1,4 +1,6 @@
 # stim1-data-in-brief
+![image](https://user-images.githubusercontent.com/91705245/155004426-afa6eda6-914c-4960-8065-778d2af79f95.png)
+
 
 12-27-2021
 Scott Lyons
